@@ -1,0 +1,14 @@
+fastapi==0.61.2
+gunicorn==20.1.0
+huggingface-hub==0.8.1
+importlib-metadata==3.1.0
+numpy
+pydantic==1.7.2
+scikit-learn
+scipy
+sentence-transformers==2.2.2
+tokenizers==0.12.1
+tqdm==4.53.0
+transformers==4.20.1
+uvicorn==0.12.3
+virtualenv==20.15.1
